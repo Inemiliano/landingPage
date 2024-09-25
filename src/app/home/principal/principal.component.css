@@ -32,6 +32,7 @@ body {
     margin: 20px 0;
     text-align: center;
     color: white;
+    
 }
 
 .intro-text h2 {
@@ -69,13 +70,14 @@ body {
 
 
 .text-section {
+    text-align: center;
     margin: 20px 0;
     color: white;
     font-size: 1.2rem;
     max-width: 80%;
-    text-align: center;
     line-height: 1.5;
 }
+
 
 
 .highlight-section {
